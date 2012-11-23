@@ -32,6 +32,8 @@ import com.android.internal.telephony.sip.SipPhone;
 import com.android.internal.telephony.sip.SipPhoneFactory;
 import com.android.internal.telephony.uicc.UiccController;
 
+import java.lang.reflect.Constructor;
+
 /**
  * {@hide}
  */
